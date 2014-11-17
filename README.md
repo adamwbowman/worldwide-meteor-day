@@ -64,6 +64,12 @@ Show&Tell Talks:
 * PRISMA - Global Color Swatches for multiple Photoshop documents built with Meteor (Code Adventure)
 * Controlling Samsung TV Video player in Hospitals with Meteor
 
+### [Omaha](http://www.meetup.com/Meteor-Omaha/events/204450952/)
+Show&Tell Talks:
+* World Wide Day Meteor walk-through (Meteor Check-in and pics from WWMD events)
+* Introduction to Meteor
+* Q&As app demo and code walk-through - [Adam Bowman] (https://twitter.com/adamwbowman)
+* The "We've Got Talls" hangout was great  
 
 ### [Your City, copy paste this template :)](link)
 **Show&Tell Talks:**
